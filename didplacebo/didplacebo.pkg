@@ -1,5 +1,10 @@
-d 'DEA': Data envelopment analysis
+d 'didplacebo': In-time, in-space and mixed placebo tests for estimating difference-in-differences (DID) models Use didplacebo With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f didplacebo.ado
+f didplacebo.sthlp
+f tofirsttreat.ado
+f tofirsttreat.sthlp
+f xtrantreat.ado
+f xtrantreat.sthlp
+f xtshuffle.ado
+f xtshuffle.sthlp
