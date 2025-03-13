@@ -1,6 +1,8 @@
 # didplacebo
 In-time, in-space and mixed placebo tests for estimating difference-in-differences (DID) models Use didplacebo With STATA 18
 
+https://www.youtube.com/watch?v=r3YjIUSQVPE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
